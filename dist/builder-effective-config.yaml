@@ -1,0 +1,16 @@
+directories:
+  output: dist
+  buildResources: build
+appId: vstudio-irl
+win:
+  target:
+    - nsis
+  icon: src/icon.ico
+nsis:
+  installerIcon: src/icon.ico
+  uninstallerIcon: src/icon.ico
+  uninstallDisplayName: vStudio IRL
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+files: []
+electronVersion: 16.0.4
