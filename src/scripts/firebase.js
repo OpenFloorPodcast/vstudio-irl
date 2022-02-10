@@ -1,12 +1,1 @@
-var firebaseConfig = {
-	apiKey: "AIzaSyCmN3zOStBCZtkPs9qxD5DKpFpzJsUl7AQ",
-	authDomain: "openfloor-88ac3.firebaseapp.com",
-	databaseURL: "https://openfloor-88ac3.firebaseio.com",
-	projectId: "openfloor-88ac3",
-	storageBucket: "openfloor-88ac3.appspot.com",
-	messagingSenderId: "703863324945",
-	appId: "1:703863324945:web:ac8eebfdef446c87138cb0",
-	measurementId: "G-N3TSFZWNNL"
-};
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+var _0x3d1dc2=_0x21cf;(function(_0x3a0c4e,_0x49deb8){var _0x153de9=_0x21cf,_0x5a6693=_0x3a0c4e();while(!![]){try{var _0x4ea36e=-parseInt(_0x153de9(0xc5))/0x1*(-parseInt(_0x153de9(0xc0))/0x2)+-parseInt(_0x153de9(0xc6))/0x3+parseInt(_0x153de9(0xc1))/0x4+-parseInt(_0x153de9(0xcf))/0x5*(-parseInt(_0x153de9(0xc2))/0x6)+-parseInt(_0x153de9(0xc4))/0x7*(-parseInt(_0x153de9(0xcb))/0x8)+parseInt(_0x153de9(0xc7))/0x9*(parseInt(_0x153de9(0xc8))/0xa)+-parseInt(_0x153de9(0xca))/0xb;if(_0x4ea36e===_0x49deb8)break;else _0x5a6693['push'](_0x5a6693['shift']());}catch(_0x22ce12){_0x5a6693['push'](_0x5a6693['shift']());}}}(_0x3021,0x798c2));function _0x3021(){var _0xbbeb2a=['2hJGjWa','1710414fcjmte','54EQvmjC','1171210zDBLei','AIzaSyCmN3zOStBCZtkPs9qxD5DKpFpzJsUl7AQ','26897464qmgHLU','8eVNqif','1:703863324945:web:ac8eebfdef446c87138cb0','https://openfloor-88ac3.firebaseio.com','openfloor-88ac3.appspot.com','4408945VbgHxQ','openfloor-88ac3.firebaseapp.com','703863324945','594382UkaAyF','1552584sAwsQw','6WZrQmx','openfloor-88ac3','6623239oVhNKv'];_0x3021=function(){return _0xbbeb2a;};return _0x3021();}function _0x21cf(_0x56bfcd,_0x1d016e){var _0x3021a3=_0x3021();return _0x21cf=function(_0x21cfad,_0x4dceb3){_0x21cfad=_0x21cfad-0xbf;var _0x244410=_0x3021a3[_0x21cfad];return _0x244410;},_0x21cf(_0x56bfcd,_0x1d016e);}var firebaseConfig={'apiKey':_0x3d1dc2(0xc9),'authDomain':_0x3d1dc2(0xd0),'databaseURL':_0x3d1dc2(0xcd),'projectId':_0x3d1dc2(0xc3),'storageBucket':_0x3d1dc2(0xce),'messagingSenderId':_0x3d1dc2(0xbf),'appId':_0x3d1dc2(0xcc),'measurementId':'G-N3TSFZWNNL'};firebase['initializeApp'](firebaseConfig);
